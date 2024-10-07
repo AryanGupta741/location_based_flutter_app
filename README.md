@@ -54,3 +54,17 @@ The app integrates a map using the `flutter_map` package and OpenStreetMap tiles
    ```bash
    git clone https://github.com/your-repo/location-based-flutter-app.git
    cd location-based-flutter-app
+
+### Final result
+![WhatsApp Image 2024-10-07 at 12 27 29_20b0c3b8](https://github.com/user-attachments/assets/d8475306-7977-4dc1-ba56-0c1b472901d0)
+
+![WhatsApp Image 2024-10-07 at 12 27 29_70615da5](https://github.com/user-attachments/assets/d2a67682-702a-4a54-b17b-147b7f726528)
+
+![WhatsApp Image 2024-10-07 at 12 27 29_9604499a](https://github.com/user-attachments/assets/923a033d-500a-4776-84fc-3b72db8faa05)
+
+![WhatsApp Image 2024-10-07 at 12 27 30_0e8ce833](https://github.com/user-attachments/assets/8d69a33c-9e68-4938-bb71-786322847767)
+![WhatsApp Image 2024-10-07 at 12 27 30_be3b0c0d](https://github.com/user-attachments/assets/f3300b7e-cf8b-4b0f-9ffa-edaa7d0ada20)
+![WhatsApp Image 2024-10-07 at 12 27 32_e6ca142f](https://github.com/user-attachments/assets/18110eba-9733-4796-863f-6b2805351421)
+![WhatsApp Image 2024-10-07 at 12 27 32_b932df09](https://github.com/user-attachments/assets/845d372d-ae56-465e-bcee-84aebaa3d1c2)
+![WhatsApp Image 2024-10-07 at 12 27 32_49c8dbc5](https://github.com/user-attachments/assets/236dae68-09e2-4a7b-b5f1-bcd39dd7fcc2)
+![WhatsApp Image 2024-10-07 at 12 27 32_3673f922](https://github.com/user-attachments/assets/53d175ef-e056-431c-91ce-77030a28a96a)
