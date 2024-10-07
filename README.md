@@ -25,6 +25,7 @@ The app integrates a map using the `flutter_map` package and OpenStreetMap tiles
 
 ## App Structure
 
+- **Model view  view mdoel**: MVVM architecture is followed.
 - **Main.dart**: The entry point of the app.
 - **Screens**:
   - `location_input_screen.dart`: The screen for entering the location.
@@ -50,7 +51,22 @@ The app integrates a map using the `flutter_map` package and OpenStreetMap tiles
 
 ### Steps to Run the App
 
-1. **Clone the Repository**:
+1. lib/
+├── main.dart
+├── models/
+│   └── location_model.dart
+├── providers/
+│   └── location_provider.dart
+├── screens/
+│   ├── location_input_screen.dart
+│   └── map_screen.dart
+├── viewmodels/
+│   └── location_viewmodel.dart
+└── widgets/
+    └── custom_button.dart
+
+
+2. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-repo/location-based-flutter-app.git
    cd location-based-flutter-app
